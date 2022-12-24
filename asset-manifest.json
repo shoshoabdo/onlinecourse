@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/onlinecourse/static/css/main.dac68be0.css",
+    "main.js": "/onlinecourse/static/js/main.88b00fb5.js",
+    "static/js/787.d3befce1.chunk.js": "/onlinecourse/static/js/787.d3befce1.chunk.js",
+    "static/media/6.jpg": "/onlinecourse/static/media/6.f619d062bdb13cc89413.jpg",
+    "static/media/3.jpg": "/onlinecourse/static/media/3.0d305b5b097ef79b9b8d.jpg",
+    "static/media/7.jpg": "/onlinecourse/static/media/7.8dcf56ead13a1a00296a.jpg",
+    "static/media/2.jpg": "/onlinecourse/static/media/2.05cc0b0d5a02f93758f2.jpg",
+    "static/media/4.png": "/onlinecourse/static/media/4.e8a5bb784cdbd5485c5e.png",
+    "static/media/1.jpg": "/onlinecourse/static/media/1.42ecdd4f521489aa42f5.jpg",
+    "static/media/8.jpg": "/onlinecourse/static/media/8.65df1442310cda49730b.jpg",
+    "static/media/10.png": "/onlinecourse/static/media/10.cb97e7f0ca5d739025b2.png",
+    "static/media/11.png": "/onlinecourse/static/media/11.2fa539562c029c1d51b6.png",
+    "index.html": "/onlinecourse/index.html",
+    "main.dac68be0.css.map": "/onlinecourse/static/css/main.dac68be0.css.map",
+    "main.88b00fb5.js.map": "/onlinecourse/static/js/main.88b00fb5.js.map",
+    "787.d3befce1.chunk.js.map": "/onlinecourse/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac68be0.css",
+    "static/js/main.88b00fb5.js"
+  ]
+}
